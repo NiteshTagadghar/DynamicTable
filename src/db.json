@@ -1,0 +1,142 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+
+    "employees": [
+      {
+        "id": 1,
+        "projectName": "Weather App",
+        "status": "On Track",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+
+
+      },
+      {
+        "id": 2,
+        "projectName": "AHLL",
+        "status": "On Hold",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+        
+      },
+      {
+        "id": 3,
+        "projectName": "SCM",
+        "status": "At Risk",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 4,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 5,
+        "projectName": "EMR",
+        "status": "Potential Risk",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 6,
+        "projectName": "Sakshi",
+        "status": "Potential Risk",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 7,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 8,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 9,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 10,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 11,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 12,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 13,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "20/04/2020",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      },
+      {
+        "id": 14,
+        "projectName": "E COM",
+        "status": "Archived",
+        "lastUpdate": "13/09/1996",
+        "resources":1,
+        "projectTimeLine":{"startDate":"14/03/2020","endDate":"14/04/2023"},
+        "estimation":"US$ 10.5k"
+      }
+    ],
+
+    "profile": { "name": "typicode" }
+  }
